@@ -38,9 +38,9 @@ disableHugoGeneratorInject = false
   posts = "/posts/:year/:month/:title/"
 
 [author]
-  name = "Murari Goswami"
+  name = "Lipika Majumdar"
   homepage = "https://lipika.now.sh"
-  twitter = "https://twitter.com/murari"
+  twitter = "https://twitter.com/lipika_majumdar"
 
 [blackfriday]
   hrefTargetBlank = true
