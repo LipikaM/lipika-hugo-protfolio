@@ -1,5 +1,5 @@
-baseURL = ["murari.now.sh", "murari-protfolio-pkdkyqziq.vercel.app", "murari-protfolio-git-master.murari-goswami.vercel.app", "murari-protfolio.murari-goswami.vercel.app", "localhost"]
-title   = "Murari Goswami"
+baseURL = ["lipika.now.sh", "lipika-hugo-protfolio.lipikam.vercel.app", "lipika-hugo-protfolio.vercel.app.app", "localhost"]
+title   = "Lipika Majumdar"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 
@@ -39,7 +39,7 @@ disableHugoGeneratorInject = false
 
 [author]
   name = "Murari Goswami"
-  homepage = "https://murari.shell.sh"
+  homepage = "https://lipika.now.sh"
   twitter = "https://twitter.com/murari"
 
 [blackfriday]
@@ -57,9 +57,9 @@ disableHugoGeneratorInject = false
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Metadata mostly used in document's head
-  description = "Murari Goswami's Protfolio"
+  description = "Lipika majumdar's Protfolio"
   keywords = ""
-  images = ["images/murari.jpeg"]
+  images = ["images/lipika.jpeg"]
 
   homeSubtitle = "AI | Machine Learning | Deep learning | Engineering"
 
@@ -92,11 +92,11 @@ disableHugoGeneratorInject = false
     mask = "#252627"
     msapplication = "#252627"
     theme = "#252627"
-    image = "images/murari.jpeg"
+    image = "images/lipika.jpeg"
     
 
   [params.logo]
-    logoText     = "$ cd /murari/"
+    logoText     = "$ cd /lipika/"
     logoHomeLink = "/"
     # Set true to remove the logo cursor entirely.
     # logoCursorDisabled = false
@@ -107,26 +107,26 @@ disableHugoGeneratorInject = false
 
   # Uncomment this if you want a portrait on your start page
   [params.portrait]
-     path     = "images/murari.jpeg"
+     path     = "images/lipika.jpeg"
      alt      = "Portrait"
      maxWidth = "150px"
 
   # Social icons
-  [[params.social]]
+  [[params.social]] 
     name = "twitter"
-    url  = "https://twitter.com/murarigoswami" 
+    url  = "https://twitter.com/lipika_majumdar" 
 
   [[params.social]]
     name = "email"
-    url  = "mailto:murari_goswami@hotmail.com"
+    url  = "mailto:lipika.jk@gmail.com"
 
   [[params.social]]
     name = "github"
-    url  = "https://github.com/murari-goswami"
+    url  = "https://github.com/LipikaM"
 
   [[params.social]]
     name = "linkedin"
-    url  = "https://www.linkedin.com/in/murari/"
+    url  = "https://www.linkedin.com/in/lipika-majumdar-73aa5917/"
 
   [[params.social]]
     name = "stackoverflow"
